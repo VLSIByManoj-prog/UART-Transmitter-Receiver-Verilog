@@ -1,0 +1,27 @@
+[*]
+[*] GTKWave Analyzer v3.3.90 (w)1999-2018 BSI
+[*] Sun Jul 05 04:13:58 2026
+[*]
+[dumpfile] "C:\Users\manoj\OneDrive\Desktop\uart_project\waveforms\uart_rx.vcd"
+[dumpfile_mtime] "Sat Jul 04 15:20:54 2026"
+[dumpfile_size] 3171
+[savefile] "C:\Users\manoj\OneDrive\Desktop\uart_project\waveforms\uart_rx_waveform.gtkw"
+[timestart] 0
+[size] 1536 793
+[pos] -1 -1
+*-17.008322 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[sst_width] 197
+[signals_width] 134
+[sst_expanded] 1
+[sst_vpaned_height] 210
+@28
+tb_uart_rx.baud_tick
+tb_uart_rx.clk
+@22
+tb_uart_rx.data_out[7:0]
+@28
+tb_uart_rx.data_valid
+tb_uart_rx.reset
+tb_uart_rx.rx
+[pattern_trace] 1
+[pattern_trace] 0
